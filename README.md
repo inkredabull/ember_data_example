@@ -56,5 +56,5 @@ has served as the basis for this project.
 
 MIT License (see LICENSE for details).
 
-Copyright 2013 Anthony Bull. 
-Copyright 2012 Dan Gebhardt. 
+* Copyright 2013 Anthony Bull 
+* Copyright 2012 Dan Gebhardt 
