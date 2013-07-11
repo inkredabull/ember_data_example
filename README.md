@@ -1,13 +1,6 @@
-# Ember Data Example
+# Ember.js By Example 
 
-This is a simple Rails 3.2 app created to demo [Ember.js](https://github.com/emberjs/ember.js),
-[Ember-Data](https://github.com/emberjs/data) and
-[Active Model Serializers](https://github.com/rails-api/active_model_serializers).
-It uses the edge versions of Ember and Ember Data.
-
-The app itself is a simple, single-page contact manager styled with Twitter Bootstrap.
-
-![Screen shot](https://raw.github.com/dgeb/ember_data_example/master/doc/ss.png)
+This is a simple Rails 3.2 app created to highlight uses of [Ember.js](https://github.com/emberjs/ember.js),
 
 ## Installation
 
@@ -53,12 +46,15 @@ To debug and run the tests in the browser, invoke:
 
 Please help improve this example by filing issues and pull requests!
 
-## Variations
+## Credits 
 
-[Chandu Tennety](https://github.com/tennety) is maintaining a
-[fork of this project](https://github.com/tennety/ember_data_example) that uses
-[Emblem.js](http://emblemjs.com/) templates.
+Many thanks to Dan Gebhardt (@dgeb) for his work on
+[ember-data-example](https://github.com/dgeb/ember_data_example) which
+has served as the basis for this project. 
 
 ## License
 
-Copyright 2012 Dan Gebhardt. MIT License (see LICENSE for details).
+MIT License (see LICENSE for details).
+
+Copyright 2013 Anthony Bull. 
+Copyright 2012 Dan Gebhardt. 
