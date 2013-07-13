@@ -1,4 +1,4 @@
-App.Adapter = DS.RESTAdapter.extend({
+App.Adapter = DS.FixtureAdapter.extend({
   bulkCommit: false
 });
 
